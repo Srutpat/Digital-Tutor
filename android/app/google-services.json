@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758042373726",
+    "project_id": "digital-tutor-cep",
+    "storage_bucket": "digital-tutor-cep.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758042373726:android:086cf4c5b7a3f96e850ecf",
+        "android_client_info": {
+          "package_name": "com.example.digital_tutor_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9k2GclrChOh8EuRlZTsZtXyWl85FesAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

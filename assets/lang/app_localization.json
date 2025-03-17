@@ -1,0 +1,124 @@
+{
+    "welcome": {
+      "en": "Welcome to My App",
+      "hi": "मेरे ऐप में आपका स्वागत है",
+      "mr": "माझ्या अॅपमध्ये आपले स्वागत आहे"
+    },
+    "choose_language": {
+      "en": "Choose your language",
+      "hi": "अपनी भाषा चुनें",
+      "mr": "तुमची भाषा निवडा"
+    },
+    "home_screen": {
+      "en": "Home Screen",
+      "hi": "होम स्क्रीन",
+      "mr": "मुख्य स्क्रीन"
+    },
+    "elderly": {
+      "en": "Elderly",
+      "hi": "वृद्ध",
+      "mr": "वृद्ध"
+    },
+    "children": {
+      "en": "Children",
+      "hi": "बच्चे",
+      "mr": "मुलं"
+    },
+    "middle_age": {
+      "en": "Middle Age",
+      "hi": "मध्यम आयु",
+      "mr": "मध्यम वय"
+    },
+    "general": {
+      "en": "General",
+      "hi": "सामान्य",
+      "mr": "सामान्य"
+    },
+    "settings": {
+      "en": "Settings",
+      "hi": "सेटिंग्स",
+      "mr": "सेटिंग्स"
+    },
+    "categoryTitle": {
+      "en": "{category}",
+      "hi": "{category}",
+      "mr": "{category}"
+    },
+    "videos": {
+      "en": "Videos",
+      "hi": "वीडियो",
+      "mr": "व्हिडिओ"
+    },
+    "audios": {
+      "en": "Audios",
+      "hi": "ऑडियो",
+      "mr": "ऑडिओ"
+    },
+    "articles": {
+      "en": "Articles",
+      "hi": "लेख",
+      "mr": "लेख"
+    },
+    "video_sections": {
+      "en": "Video Sections",
+      "hi": "वीडियो अनुभाग",
+      "mr": "व्हिडिओ विभाग"
+    },
+    "whatsapp": {
+      "en": "WhatsApp",
+      "hi": "व्हाट्सएप",
+      "mr": "व्हॉट्सअॅप"
+    },
+    "youtube": {
+      "en": "YouTube",
+      "hi": "यूट्यूब",
+      "mr": "यूट्यूब"
+    },
+    "google_pay": {
+      "en": "Google Pay",
+      "hi": "गूगल पे",
+      "mr": "गूगल पे"
+    },
+    "phone_settings": {
+      "en": "Phone Settings",
+      "hi": "फ़ोन सेटिंग्स",
+      "mr": "फोन सेटिंग्स"
+    },
+    "general_phone": {
+      "en": "General Phone",
+      "hi": "सामान्य फ़ोन",
+      "mr": "सामान्य फोन"
+    },
+    "whatsapp_video_call": {
+      "en": "How to make a video call on WhatsApp",
+      "hi": "व्हाट्सएप पर वीडियो कॉल कैसे करें",
+      "mr": "व्हॉट्सअॅपवर व्हिडिओ कॉल कसा करायचा"
+    },
+    "youtube_watch_video": {
+      "en": "How to search and watch videos on YouTube",
+      "hi": "यूट्यूब पर वीडियो खोजें और देखें कैसे",
+      "mr": "यूट्यूबवर व्हिडिओ शोधून पाहायचे कसे"
+    },
+    "google_pay_payment": {
+      "en": "How to send and receive payments on Google Pay",
+      "hi": "गूगल पे पर भुगतान भेजें और प्राप्त करें कैसे",
+      "mr": "गूगल पे वर पैसे पाठवणे आणि प्राप्त करणे कसे"
+    },
+    "phone_settings_tutorial": {
+      "en": "How to adjust phone settings",
+      "hi": "फ़ोन सेटिंग्स कैसे समायोजित करें",
+      "mr": "फोन सेटिंग्ज कशा समायोजित करायच्या"
+    },
+    "general_phone_usage": {
+      "en": "Basic phone usage tips",
+      "hi": "मूलभूत फ़ोन उपयोग युक्तियाँ",
+      "mr": "मूलभूत फोन वापर टिप्स"
+    },
+    "choose_category": {
+  "en": "Choose Category",
+  "hi": "श्रेणी चुनें",
+  "mr": "श्रेणी निवडा"
+}
+
+  }
+  

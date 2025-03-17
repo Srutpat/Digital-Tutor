@@ -1,0 +1,26 @@
+{
+  "welcome": "माझ्या अॅपमध्ये तुमचे स्वागत आहे",
+  "choose_language": "तुमची भाषा निवडा",
+  "home_screen": "मुख्य स्क्रीन",
+  "elderly": "ज्येष्ठ नागरिक",
+  "children": "मुलं",
+  "middle_age": "मध्यम वय",
+  "general": "सामान्य",
+  "settings": "सेटिंग्स",
+  "videos": "व्हिडिओ",
+  "audios": "ऑडिओ",
+  "articles": "लेख",
+
+  "video_sections": "व्हिडिओ विभाग",
+  "whatsapp": "व्हॉट्सअॅप",
+  "youtube": "यूट्यूब",
+  "google_pay": "गूगल पे",
+  "phone_settings": "फोन सेटिंग्स",
+  "general_phone": "सामान्य फोन",
+
+  "whatsapp_video_call": "व्हॉट्सअॅपवर व्हिडिओ कॉल कसा करावा",
+  "youtube_watch_video": "यूट्यूबवर व्हिडिओ कसे शोधावे आणि पाहावे",
+  "google_pay_payment": "गूगल पे वर पैसे कसे पाठवायचे आणि स्वीकारायचे",
+  "phone_settings_tutorial": "फोन सेटिंग्स कशा समायोजित कराव्यात",
+  "general_phone_usage": "फोन वापरण्याच्या मूलभूत टिप्स"
+}

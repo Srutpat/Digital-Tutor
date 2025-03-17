@@ -1,0 +1,28 @@
+{
+    "@@locale": "hi",
+    "welcome": "मेरे ऐप में आपका स्वागत है",
+    "choose_language": "अपनी भाषा चुनें",
+    "home_screen": "होम स्क्रीन",
+    "elderly": "वृद्ध",
+    "children": "बच्चे",
+    "middle_age": "मध्यम आयु",
+    "general": "सामान्य",
+    "settings": "सेटिंग्स",
+    "categoryTitle": "{category}",
+    "videos": "वीडियो",
+    "audios": "ऑडियो",
+    "articles": "लेख",
+    "video_sections": "वीडियो अनुभाग",
+    "whatsapp": "व्हाट्सएप",
+    "youtube": "यूट्यूब",
+    "google_pay": "गूगल पे",
+    "phone_settings": "फ़ोन सेटिंग्स",
+    "general_phone": "सामान्य फ़ोन",
+    "whatsapp_video_call": "व्हाट्सएप पर वीडियो कॉल कैसे करें",
+    "youtube_watch_video": "यूट्यूब पर वीडियो खोजें और देखें कैसे",
+    "google_pay_payment": "गूगल पे पर भुगतान भेजें और प्राप्त करें कैसे",
+    "phone_settings_tutorial": "फ़ोन सेटिंग्स कैसे समायोजित करें",
+    "general_phone_usage": "मूलभूत फ़ोन उपयोग युक्तियाँ",
+    "choose_category": "श्रेणी चुनें"
+  }
+  

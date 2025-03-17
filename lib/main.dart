@@ -79,13 +79,13 @@
 //   }
 // }
 
-import 'package:digital_tutor_/screens/call_screen.dart';
-import 'package:digital_tutor_/screens/home_screen.dart';
+// import 'package:digital_tutor_/screens/call_screen.dart';
+// import 'package:digital_tutor_/screens/home_screen.dart';
 import 'package:digital_tutor_/screens/splash.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:digital_tutor_/provider/locale_provider.dart';
-import 'package:digital_tutor_/screens/chat_screen.dart';
+// import 'package:digital_tutor_/screens/chat_screen.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:digital_tutor_/l10n/app_localization.dart';
 
@@ -122,12 +122,12 @@ class MyApp extends StatelessWidget {
         GlobalCupertinoLocalizations.delegate,
       ],
       home: SplashScreen(),
-      routes: {
-        '/home': (context) => HomeScreen(),
-        '/chat': (context) => ChatApp(),
-        '/video call': (context) => CallScreen(callType: "video"),
-        '/simulation': (context) => ChatApp(),
-      },
+      // routes: {
+      //   '/home': (context) => HomeScreen(),
+      //   '/chat': (context) => ChatApp(),
+      //   '/video call': (context) => CallScreen(callType: "video"),
+      //   '/simulation': (context) => ChatApp(),
+      // },
     );
   }
 }
